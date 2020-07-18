@@ -1,0 +1,86 @@
+body{
+  background-image: url(background.jpg);
+  font-family: arial;
+}
+
+.caixatopo{
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: -10px; 
+}
+
+.title{
+  background-color: white;
+}
+
+h1{
+  font-size: 26px;
+  font-weight: normal;
+  padding-left: 20px;
+}
+
+.socialmedia{
+  background: white;
+  padding-left: 1610px;
+}
+
+.logofacebook{
+  height: 30px;
+  padding-left:5px;
+}
+
+.logoinstagram{
+  height: 30px;
+  padding-right:5px;
+}
+
+.caixacontainer{
+  text-align:center;
+  margin-left: -10px;
+  margin-right: -10px;
+  padding-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+.caixacentral {
+  background-color: white;
+  width: 800px;
+  height: 500px;
+}
+
+.vader{
+  padding-top:30px;
+  height: 86px;
+}
+
+h2{
+  font-size: 26px;
+  font-weight: normal;
+}
+
+p{
+  font-size: 20px;
+}
+
+.botao{
+  background-color: black;
+  height: 80px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 185px;
+  margin-right: 185px;
+  margin-top: 60px;
+}
+
+h3{
+  color: #F5F837;
+  font-weight: normal;
+}
